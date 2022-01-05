@@ -1,0 +1,8 @@
+{
+  "profiles": [
+    {
+      "name": "Docker Standalone + Edge Agent (Default)",
+      "URL": "https://raw.githubusercontent.com/andres-portainer/fdo-profiles/master/default.sh"
+    }
+  ]
+}
